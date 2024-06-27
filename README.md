@@ -23,37 +23,37 @@ You can copy the json from settings.json file and paste it into your VS Code set
     <img src="images/Instructions-1.png" alt="Instructions Step 1">
   </a>
 
---> Step #2 Go to VS code Settings
+--> Step #2 Open the settings json file in the top right corner
 
   <p align="center">
     <img src="images/Instructions-2.png" alt="Instructions Step 2">
   </a>
 
---> Step #3 Go to VS code Settings
+--> Step #3 Remove all code from the json file
 
   <p align="center">
     <img src="images/Instructions-3.png" alt="Instructions Step 3">
   </a>
 
---> Step #4 Go to VS code Settings
+--> Step #4 Then go back to the GitHub document, and open the settings.json file
 
   <p align="center">
     <img src="images/Instructions-4.png" alt="Instructions Step 4">
   </a>
 
---> Step #5 Go to VS code Settings
+--> Step #5 Then select and copy all the codes
 
   <p align="center">
     <img src="images/Instructions-5.png" alt="Instructions Step 5">
   </a>
 
---> Step #6 Go to VS code Settings
+--> Step #6 Then return to the vscode editor and paste the copied code into the settings.json file
 
   <p align="center">
     <img src="images/Instructions-6.png" alt="Instructions Step 6">
   </a>
 
---> Step #7 Go to VS code Settings
+--> Step #7 And write the code with an html document, you will see like magic :), Operator Mono Pro Font is setup in vscode editor
 
   <p align="center">
     <img src="images/Instructions-7.png" alt="Instructions Step 7">
